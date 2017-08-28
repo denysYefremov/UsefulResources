@@ -43,6 +43,10 @@
 * [Secrets of the JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X)
 * [Programming JavaScript Applications: Robust Web Architecture with Node, HTML5, and Modern JS Libraries](https://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293/ref=sr_1_1?s=books&ie=UTF8&qid=1503924891&sr=1-1&keywords=Programming+JavaScript+Applications)
 
+### Resources
+* [Front-end handbook 2016](https://www.frontendhandbook.com/learning/javascript.html)
+* [Front-end handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
+
 ## Artificial Intellect / Neural networks / Machine learning / Computer science
 
 [Neural network types](http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)

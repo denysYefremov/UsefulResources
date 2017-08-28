@@ -55,6 +55,9 @@
 * [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
 * [Introduction to Computational Thinking and Data Science](https://courses.edx.org/courses/course-v1:MITx+6.00.2x_7+1T2017/course/)
 
+## Blockchain
+* [Blockchain demo](https://anders.com/blockchain/)
+
 ## Common knowladge
 
 ### Books

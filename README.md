@@ -37,9 +37,6 @@
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) <sup style="color: green">_Hightly recommended!_</sup>
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) <sup style="color: green">_Hightly recommended!_</sup>
 
->**[HOC (Higher-Order Components)](https://facebook.github.io/react/docs/higher-order-components.html)**
->**[Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.wyfzsauqe)**
-
 ## JavaScript
 
 ### Books

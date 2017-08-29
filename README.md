@@ -15,7 +15,6 @@ There is a list of resources which I found useful for myself
 
 ### Data sciense
 
-* [Books]()
 * [Articles]()
 * [Courses]()
 * [Resources]()

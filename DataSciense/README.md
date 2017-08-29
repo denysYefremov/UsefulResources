@@ -9,5 +9,5 @@
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 
 ### Free courses
-* [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)<sup style="color: green">_Hightly recommended!_</sup>
-* [Introduction to Computational Thinking and Data Science](https://courses.edx.org/courses/course-v1:MITx+6.00.2x_7+1T2017/course/)<sup style="color: green">_Hightly recommended!_</sup>
+* [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730) <sup style="color: green">_Hightly recommended!_</sup>
+* [Introduction to Computational Thinking and Data Science](https://courses.edx.org/courses/course-v1:MITx+6.00.2x_7+1T2017/course/) <sup style="color: green">_Hightly recommended!_</sup>

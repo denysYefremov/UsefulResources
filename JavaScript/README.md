@@ -22,6 +22,7 @@
 * [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
 
 ### Resources
+* [React armory](https://reactarmory.com/)
 * [React bits: compilation of react best practices](https://www.gitbook.com/book/vasanthk/react-bits)
 
 ### Articles

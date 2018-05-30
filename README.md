@@ -8,7 +8,7 @@ There is a list of resources which I found useful for myself
 
 ### General
 
-* [Books](https://github.com/denysYefremov/UsefulResources/tree/master/General#books)
+* [Books](General#books)
 * [Articles](https://github.com/denysYefremov/UsefulResources/tree/master/General#articles)
 * [Courses](https://github.com/denysYefremov/UsefulResources/tree/master/General#paid-courses)
 * [Resources](https://github.com/denysYefremov/UsefulResources/tree/master/General#resources)
